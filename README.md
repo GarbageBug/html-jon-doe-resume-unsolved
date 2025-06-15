@@ -40,18 +40,18 @@ This assignment should prove that a student is able to:
 - [X] Clone the project to your computer
 - [X] Open the project in VSCode with `code <cloned_repo_folder_name>`
 - [ ] Initialize playwright and install project packages
-  - [ ] Use `npm i` to install packages
-  - [ ] Use `npm run browser-install` to install the browser environment for testing 
-- [ ] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
-  - [ ] Use `npm run test` to run all tests in the terminal
-  - [ ] Use `npm run test-part1` to run the tests for the first part of specific requirements in the terminal
-  - [ ] Use `npm run test-part2` to run the tests for the second part of specific requirements in the terminal
-  - [ ] (Optional) Use `npm run test-ui` to run all the tests with GUI
-  - [ ] (Optional) Use `npm run show-report` to see the latest report in the browser
-- [ ] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
-- [ ] The code MUST be formatted with Prettier
-- [ ] Push the changes to the Github repo, when finished.
+  - [X] Use `npm i` to install packages
+  - [X] Use `npm run browser-install` to install the browser environment for testing 
+- [X] All the tasks of the "Specific requirements" section MUST be solved
+- [X] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
+  - [X] Use `npm run test` to run all tests in the terminal
+  - [X] Use `npm run test-part1` to run the tests for the first part of specific requirements in the terminal
+  - [X] Use `npm run test-part2` to run the tests for the second part of specific requirements in the terminal
+  - [X] (Optional) Use `npm run test-ui` to run all the tests with GUI
+  - [X] (Optional) Use `npm run show-report` to see the latest report in the browser
+- [X] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
+- [X] The code MUST be formatted with Prettier
+- [X] Push the changes to the Github repo, when finished.
 - [ ] Submit a .txt file with the Github repo url.
 
 ## Specific requirements
